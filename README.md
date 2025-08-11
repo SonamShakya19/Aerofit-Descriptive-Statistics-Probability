@@ -1,3 +1,30 @@
+<h1 align="center">Hi 👋, I'm Sonam Shakya</h1>
+<h3 align="center">Data Analyst | Statistical Analysis Enthusiast | Turning fitness equipment sales data into actionable business insights</h3>
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/11PDc2ZMpvrHq0pV70QWuxYbCkO_zfuXj" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About the Project — Aerofit Business Case: Descriptive Statistics & Probability
+This repository contains my **Aerofit Business Case** project, where I analyzed customer data for Aerofit’s treadmill products to generate insights using descriptive statistics and probability concepts. The aim was to profile customer segments and recommend suitable products based on their characteristics.
+
+### 🔍 Project Highlights:
+- **Data Understanding:** Explored customer demographics, usage patterns, and fitness preferences.
+- **Descriptive Statistics:** Computed measures of central tendency, dispersion, and distribution for key variables.
+- **Probability Analysis:** Assessed likelihood of customers purchasing specific treadmill models based on demographics.
+- **Customer Profiling:** Identified customer segments most likely to purchase each product type.
+- **Business Recommendations:** Suggested product marketing strategies based on analysis.
+
+**Skills Used:**  
+`Python` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Descriptive Statistics` | `Probability`
+
+---
+
+## 📂 Project Structure
 
 ---
 
