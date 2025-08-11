@@ -43,6 +43,7 @@ This repository contains my **Aerofit Business Case** project, where I analyzed 
 <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/></a>
+<a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/></a>
 </p>
 
 ---
